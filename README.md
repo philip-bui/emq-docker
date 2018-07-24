@@ -1,5 +1,11 @@
 # EMQ Docker
 
+[![Build Status](https://travis-ci.org/philip-bui/emq-docker.svg?branch=master)](https://travis-ci.org/philip-bui/emq-docker)
+![Docker Pulls](https://img.shields.io/docker/pulls/philipbui/emq-docker.svg)
+![Docker Build Status](https://img.shields.io/docker/build/philipbui/emq-docker.svg)
+![Docker Automated build](https://img.shields.io/docker/automated/philipbui/emq-docker.svg)
+
+
 *EMQ* (Erlang MQTT Broker) is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP.
 
 Current docker image size: 37.1 MB
